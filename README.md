@@ -7,6 +7,9 @@ Setup info for new computers
  - Oracle .NET - http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html
  - PLSQL Developer - https://www.allroundautomations.com/
    - License is in email "PL/SQL Developer service contract order"
+ - Sublime Text - https://www.sublimetext.com/
+ - DropBox - https://www.dropbox.com/install
+ - GitHub Desktop  - https://desktop.github.com/
 
 
 
