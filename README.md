@@ -8,8 +8,15 @@ Setup info for new computers
  - PLSQL Developer - https://www.allroundautomations.com/
    - License is in email "PL/SQL Developer service contract order"
  - Sublime Text - https://www.sublimetext.com/
+   - Package Control - https://packagecontrol.io/installation
+   - Install Ctrl+Shift+P
+     - Emmett
+     - SFTP
+     - Text Pastry
  - DropBox - https://www.dropbox.com/install
+ - Google Drive - https://www.google.com/drive/download/
  - GitHub Desktop  - https://desktop.github.com/
+ 
 
 
 
