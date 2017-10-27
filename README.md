@@ -21,6 +21,10 @@ Setup info for new computers
  - Adobe cloud - https://www.adobe.com/creativecloud.html
  - Powershell Jump-Location - https://github.com/tkellogg/Jump-Location
  - Search Everything - https://www.voidtools.com/
+ - Putty - http://www.putty.org/
+   - colours -- use system colors
+   - connection --> Data --> Auto-login username : oracle
+     - SSH --> Auth --> Private Key : DB\apps\puttyPrivate.ppk
 
 
 
