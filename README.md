@@ -25,6 +25,7 @@ Setup info for new computers
    - colours -- use system colors
    - connection --> Data --> Auto-login username : oracle
      - SSH --> Auth --> Private Key : DB\apps\puttyPrivate.ppk
+ - Snagit - https://www.techsmith.com/screen-capture.html (License in Email)
 
 
 
@@ -33,4 +34,5 @@ Setup info for new computers
  - Autojump - https://github.com/wting/autojump
  - BarTender - https://www.macbartender.com/
  - FlyCut - https://github.com/TermiT/Flycut/releases
+ - Snagit - https://www.techsmith.com/screen-capture.html  (License in Email)
  
