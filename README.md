@@ -29,3 +29,5 @@ Setup info for new computers
 
 
 ## Mac
+ - HomeBrew - https://brew.sh
+ - Autojump - https://github.com/wting/autojump
