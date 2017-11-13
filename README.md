@@ -31,3 +31,6 @@ Setup info for new computers
 ## Mac
  - HomeBrew - https://brew.sh
  - Autojump - https://github.com/wting/autojump
+ - BarTender - https://www.macbartender.com/
+ - FlyCut - https://github.com/TermiT/Flycut/releases
+ 
