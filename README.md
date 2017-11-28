@@ -20,6 +20,7 @@ Setup info for new computers
    - License is in email "PL/SQL Developer service contract order"
  - Adobe cloud - https://www.adobe.com/creativecloud.html
  - Powershell Jump-Location - https://github.com/tkellogg/Jump-Location
+   - [permissions issue](https://github.com/tkellogg/Jump-Location/issues/62)
  - Search Everything - https://www.voidtools.com/
  - Putty - http://www.putty.org/
    - colours -- use system colors
