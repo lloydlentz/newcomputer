@@ -26,6 +26,8 @@ Setup info for new computers
    - connection --> Data --> Auto-login username : oracle
      - SSH --> Auth --> Private Key : DB\apps\puttyPrivate.ppk
  - Snagit - https://www.techsmith.com/screen-capture.html (License in Email)
+ - Python - https://www.python.org/downloads/
+   - PIP should be installed [how to check](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
 
 
 
