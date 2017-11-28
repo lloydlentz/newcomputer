@@ -29,8 +29,8 @@ Setup info for new computers
  - Snagit - https://www.techsmith.com/screen-capture.html (License in Email)
  - Python - https://www.python.org/downloads/
    - PIP should be installed [how to check](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
-   - pip install -U selenium
-   - pip install -U pyvirtualdisplay
+   - `pip install -U selenium`
+   - `pip install -U pyvirtualdisplay`
 
 
 
