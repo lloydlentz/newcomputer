@@ -6,6 +6,9 @@ Setup info for new computers
  - DropBox - https://www.dropbox.com/install
  - Google Drive - https://www.google.com/drive/download/
  - GitHub Desktop  - https://desktop.github.com/
+ - Git Portable - https://stackoverflow.com/questions/35619305/enabling-git-in-windows-10-command-line
+   - Located in ...\Dropbox\Apps\GitPoratbleGit
+   - add to path `D:\Dropbox\apps\PortableGit\bin;D:\Dropbox\apps\PortableGit\usr\bin;D:\Dropbox\apps\PortableGit\mingw64\bin`
  - Sublime Text - https://www.sublimetext.com/
    - License in email "sublime text license"
    - Package Control - https://packagecontrol.io/installation
