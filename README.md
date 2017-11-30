@@ -34,7 +34,7 @@ Setup info for new computers
    - PIP should be installed [how to check](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
    - `pip install -U selenium`
    - `pip install -U pyvirtualdisplay`
- - Add to Job Sceduler - (**7DaysClean**)[7daysclean.cmd]
+ - Add to Job Sceduler - [**7DaysClean**](https://github.com/lloydlentz/newcomputer/blob/master/7DaysClean.cmd)
 
 
 
