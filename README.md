@@ -9,6 +9,7 @@ Setup info for new computers
  - Git Portable - https://stackoverflow.com/questions/35619305/enabling-git-in-windows-10-command-line
    - Located in ...\Dropbox\Apps\GitPoratbleGit
    - add to path `D:\Dropbox\apps\PortableGit\bin;D:\Dropbox\apps\PortableGit\usr\bin;D:\Dropbox\apps\PortableGit\mingw64\bin`
+ - Git for Windows - https://git-for-windows.github.io/
  - Sublime Text - https://www.sublimetext.com/
    - License in email "sublime text license"
    - Package Control - https://packagecontrol.io/installation
