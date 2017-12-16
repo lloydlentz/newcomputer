@@ -45,4 +45,5 @@ Setup info for new computers
  - BarTender - https://www.macbartender.com/
  - FlyCut - https://github.com/TermiT/Flycut/releases
  - Snagit - https://www.techsmith.com/screen-capture.html  (License in Email)
+ - Spectacle - https://www.spectacleapp.com/  (windows snap keyboard shortcut)
  
