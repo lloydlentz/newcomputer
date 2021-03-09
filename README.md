@@ -23,6 +23,7 @@ Setup info for new computers
  - PLSQL Developer - https://www.allroundautomations.com/
    - License is in email "PL/SQL Developer service contract order"
  - Adobe cloud - https://www.adobe.com/creativecloud.html
+ - [Powershell 7](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
  - Powershell Jump-Location - https://github.com/tkellogg/Jump-Location
    - [permissions issue](https://github.com/tkellogg/Jump-Location/issues/62)
  - Search Everything - https://www.voidtools.com/
