@@ -10,18 +10,9 @@ Setup info for new computers
    - Located in ...\Dropbox\Apps\GitPoratbleGit
    - add to path `D:\Dropbox\apps\PortableGit\bin;D:\Dropbox\apps\PortableGit\usr\bin;D:\Dropbox\apps\PortableGit\mingw64\bin`
  - Git for Windows - https://git-for-windows.github.io/
- - Sublime Text - https://www.sublimetext.com/
-   - License in email "sublime text license"
-   - Package Control - https://packagecontrol.io/installation
-   - Install Ctrl+Shift+P
-     - SFTP - license in email "Sublime SFTP License Key and Invoice"
-     - Emmett
-     - Text Pastry
  - Visual Studio - https://www.visualstudio.com/
- - Oracle .NET - http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html
- - Oracle Client - http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html
- - PLSQL Developer - https://www.allroundautomations.com/
-   - License is in email "PL/SQL Developer service contract order"
+ - Visual Studio Code - https://code.visualstudio.com/
+ - ClipDiary - http://clipdiary.com/
  - Adobe cloud - https://www.adobe.com/creativecloud.html
  - [Powershell 7](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
  - Powershell Jump-Location - https://github.com/tkellogg/Jump-Location
