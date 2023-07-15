@@ -14,6 +14,8 @@ Setup info for new computers
  - Visual Studio Code - https://code.visualstudio.com/
  - Azure Data Studio - https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio
  - ClipDiary - http://clipdiary.com/
+   - history: C:\Users\lentz\Dropbox\code\clipdiary\diary.db
+   - snippets: C:\Users\lentz\Dropbox\code\clipdiary\snippets.sdb 
  - Adobe cloud - https://www.adobe.com/creativecloud.html
  - [Powershell 7](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
  - Powershell Jump-Location - https://github.com/tkellogg/Jump-Location
